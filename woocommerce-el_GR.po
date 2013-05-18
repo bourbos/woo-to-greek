@@ -1111,13 +1111,13 @@ msgstr ""
 #: templates/myaccount/my-orders.php:77
 #@ woocommerce
 msgid "Cancel"
-msgstr ""
+msgstr "Ακύρωση"
 
 #: admin/post-types/writepanels/writepanel-product_data.php:284
 #: templates/single-product/product-attributes.php:37
 #@ woocommerce
 msgid "Dimensions"
-msgstr ""
+msgstr "Διαστάσεις"
 
 #: admin/post-types/product.php:601
 #: admin/post-types/product.php:879
@@ -1155,7 +1155,7 @@ msgstr ""
 #: admin/post-types/product.php:893
 #@ woocommerce
 msgid "Catalog &amp; search"
-msgstr ""
+msgstr "Αναζήτηση &amp; καταλόγου"
 
 #: admin/post-types/product.php:619
 #: admin/post-types/product.php:894
@@ -1164,7 +1164,7 @@ msgstr ""
 #: admin/woocommerce-admin-settings.php:183
 #@ woocommerce
 msgid "Catalog"
-msgstr ""
+msgstr "Κατάλογος"
 
 #: admin/post-types/product.php:620
 #: admin/post-types/product.php:895
@@ -1173,7 +1173,7 @@ msgstr ""
 #: woocommerce.php:947
 #@ woocommerce
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: admin/post-types/writepanels/writepanel-product_data.php:158
 #@ woocommerce
@@ -1348,13 +1348,13 @@ msgstr ""
 #: admin/post-types/writepanels/writepanels-init.php:68
 #@ woocommerce
 msgid "Order Data"
-msgstr ""
+msgstr "Δεδομένα παραγγελίας"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:652
 #: admin/post-types/writepanels/writepanels-init.php:70
 #@ woocommerce
 msgid "Order Totals"
-msgstr ""
+msgstr "Σύνολα παραγγελίας"
 
 #: admin/post-types/shop_order.php:48
 #: admin/post-types/writepanels/writepanels-init.php:71
@@ -1382,7 +1382,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanels-init.php:101
 #@ woocommerce
 msgid "Product name"
-msgstr ""
+msgstr "Όνομα προϊόντος"
 
 #: admin/woocommerce-admin-attributes.php:227
 #@ woocommerce
@@ -1393,13 +1393,13 @@ msgstr ""
 #: admin/woocommerce-admin-attributes.php:388
 #@ woocommerce
 msgid "Select"
-msgstr ""
+msgstr "Επιλογή"
 
 #: admin/woocommerce-admin-attributes.php:256
 #: admin/woocommerce-admin-attributes.php:389
 #@ woocommerce
 msgid "Text"
-msgstr ""
+msgstr "Κείμενο"
 
 #: admin/post-types/product.php:88
 #: admin/post-types/writepanels/writepanel-product_data.php:375
@@ -1416,7 +1416,7 @@ msgstr ""
 #: woocommerce-ajax.php:1170
 #@ woocommerce
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 #: admin/post-types/product.php:101
 #: admin/woocommerce-admin-attributes.php:251
@@ -1424,7 +1424,7 @@ msgstr ""
 #: admin/woocommerce-admin-attributes.php:386
 #@ woocommerce
 msgid "Type"
-msgstr ""
+msgstr "Τύπος"
 
 #: admin/woocommerce-admin-attributes.php:311
 #@ woocommerce
@@ -1436,7 +1436,7 @@ msgstr ""
 #: admin/woocommerce-admin-attributes.php:323
 #@ woocommerce
 msgid "Delete"
-msgstr ""
+msgstr "Διαγραφή"
 
 #: admin/woocommerce-admin-attributes.php:356
 #@ woocommerce
@@ -1496,7 +1496,7 @@ msgstr ""
 #: woocommerce.php:170
 #@ woocommerce
 msgid "Settings"
-msgstr ""
+msgstr "Ρυθμίσεις"
 
 #: admin/woocommerce-admin-content.php:44
 #@ woocommerce
@@ -1508,7 +1508,7 @@ msgstr ""
 #: assets/js/admin/editor_plugin_lang.php:14
 #@ woocommerce
 msgid "Pages"
-msgstr ""
+msgstr "Σελίδες"
 
 #: admin/woocommerce-admin-content.php:45
 #@ woocommerce
@@ -1585,7 +1585,7 @@ msgstr ""
 #: admin/woocommerce-admin-reports.php:1208
 #@ woocommerce
 msgid "Sales"
-msgstr ""
+msgstr "Πωλήσεις"
 
 #: admin/woocommerce-admin-content.php:60
 #@ woocommerce
@@ -1596,7 +1596,7 @@ msgstr ""
 #: admin/woocommerce-admin-reports.php:83
 #@ woocommerce
 msgid "Customers"
-msgstr ""
+msgstr "Πελάτες"
 
 #: admin/woocommerce-admin-content.php:62
 #@ woocommerce
@@ -1608,7 +1608,7 @@ msgstr ""
 #: woocommerce.php:1058
 #@ woocommerce
 msgid "Orders"
-msgstr ""
+msgstr "Παραγγελίες"
 
 #: admin/woocommerce-admin-content.php:70
 #@ woocommerce
@@ -1649,7 +1649,7 @@ msgstr ""
 #: woocommerce.php:823
 #@ woocommerce
 msgid "Product Categories"
-msgstr ""
+msgstr "Κατηγορίες Προϊόντων"
 
 #: classes/widgets/class-wc-widget-product-tag-cloud.php:58
 #: woocommerce.php:857
@@ -1661,17 +1661,17 @@ msgstr ""
 #: admin/woocommerce-admin-dashboard.php:148
 #@ woocommerce
 msgid "Pending"
-msgstr ""
+msgstr "Σε αναμονή"
 
 #: admin/woocommerce-admin-dashboard.php:162
 #@ woocommerce
 msgid "On-Hold"
-msgstr ""
+msgstr "Σε παύση"
 
 #: admin/woocommerce-admin-dashboard.php:190
 #@ woocommerce
 msgid "Completed"
-msgstr ""
+msgstr "Τελειωμένη"
 
 #: admin/woocommerce-admin-dashboard.php:40
 #@ woocommerce
@@ -1703,7 +1703,7 @@ msgstr "Σύνολο παραγγελίας :"
 #: templates/single-product-reviews.php:28
 #@ woocommerce
 msgid "out of 5"
-msgstr ""
+msgstr "από τα 5"
 
 #: admin/woocommerce-admin-dashboard.php:287
 #@ woocommerce
@@ -1713,23 +1713,23 @@ msgstr "Δεν υπάρχουν ακόμα κριτικές-σχόλια για 
 #: woocommerce.php:948
 #@ woocommerce
 msgid "All"
-msgstr ""
+msgstr "Όλα"
 
 #: admin/woocommerce-admin-attributes.php:277
 #: woocommerce.php:952
 #@ woocommerce
 msgid "Update"
-msgstr ""
+msgstr "Ενημέρωση"
 
 #: woocommerce.php:953
 #@ woocommerce
 msgid "Add New"
-msgstr ""
+msgstr "Προσθήκη νέου"
 
 #: woocommerce.php:954
 #@ woocommerce
 msgid "New"
-msgstr ""
+msgstr "Νέο"
 
 #. translators: plugin header field 'Name'
 #: admin/woocommerce-admin-content.php:83
@@ -1823,7 +1823,7 @@ msgstr ""
 #: templates/checkout/thankyou.php:30
 #@ woocommerce
 msgid "My Account"
-msgstr ""
+msgstr "Ο λογαριασμός μου"
 
 #: admin/woocommerce-admin-install.php:210
 #@ woocommerce
@@ -1834,7 +1834,7 @@ msgstr ""
 #: admin/woocommerce-admin-install.php:210
 #@ woocommerce
 msgid "Edit My Address"
-msgstr ""
+msgstr "Επεξεργασία διεύθυνσης"
 
 #: admin/woocommerce-admin-install.php:213
 #@ woocommerce
@@ -1849,7 +1849,7 @@ msgstr ""
 #: woocommerce.php:1066
 #@ woocommerce
 msgid "View Order"
-msgstr ""
+msgstr "Προβολή παραγγελίας"
 
 #: admin/woocommerce-admin-install.php:216
 #@ woocommerce
@@ -1873,7 +1873,7 @@ msgstr ""
 #: admin/woocommerce-admin-install.php:222
 #@ woocommerce
 msgid "Checkout &rarr; Pay"
-msgstr ""
+msgstr "Ολοκλήρωση παραγγελίας &rarr; πληρωμή"
 
 #: admin/woocommerce-admin-install.php:225
 #@ woocommerce
@@ -2722,12 +2722,12 @@ msgstr ""
 #: woocommerce.php:1759
 #@ woocommerce
 msgid "Action failed. Please refresh the page and retry."
-msgstr ""
+msgstr "Η ενέργεια απέτυχε. Παρακαλώ κάντε ανανέωση της σελίδας και προσπαθήστε ξανά."
 
 #: admin/woocommerce-admin-settings.php:164
 #@ woocommerce
 msgid "Your settings have been saved."
-msgstr ""
+msgstr "Οι επιλογές σας αποθηκεύτηκαν."
 
 #: admin/includes/notice-install.php:7
 #@ woocommerce
@@ -2855,18 +2855,18 @@ msgstr "Διεύθυνση χρέωσης Πελάτη"
 #: admin/woocommerce-admin-users.php:196
 #@ woocommerce
 msgid "First name"
-msgstr ""
+msgstr "Όνομα"
 
 #: admin/woocommerce-admin-users.php:151
 #: admin/woocommerce-admin-users.php:200
 #@ woocommerce
 msgid "Last name"
-msgstr ""
+msgstr "Επώνυμο"
 
 #: admin/woocommerce-admin-users.php:183
 #@ woocommerce
 msgid "Telephone"
-msgstr ""
+msgstr "Τηλέφωνο"
 
 #: admin/woocommerce-admin-users.php:193
 #@ woocommerce
@@ -2876,7 +2876,7 @@ msgstr "Διεύθυνση αποστολής"
 #: admin/woocommerce-admin-users.php:225
 #@ woocommerce
 msgid "State/County or state code"
-msgstr "Νομός"
+msgstr "Νομός - Περιφέρεια"
 
 #: admin/woocommerce-admin-users.php:180
 #: admin/woocommerce-admin-users.php:229
@@ -2915,7 +2915,7 @@ msgstr ""
 #: classes/class-wc-checkout.php:64
 #@ woocommerce
 msgid "Account username"
-msgstr ""
+msgstr "όνομα χρήστη λογαριασμού"
 
 #: templates/myaccount/form-login.php:66
 #@ woocommerce
@@ -2937,41 +2937,41 @@ msgstr "Κωδικός"
 #: templates/checkout/form-billing.php:42
 #@ woocommerce
 msgid "Create an account?"
-msgstr ""
+msgstr "Δημιουργία λογαριασμού ;"
 
 #: templates/checkout/form-shipping.php:59
 #: templates/single-product/tabs/additional-information.php:14
 #: woocommerce-template.php:759
 #@ woocommerce
 msgid "Additional Information"
-msgstr ""
+msgstr "Επιπλέον πληροφορίες"
 
 #: classes/class-wc-checkout.php:388
 #, php-format
 #@ woocommerce
 msgid "Sorry, your session has expired. <a href=\"%s\">Return to homepage &rarr;</a>"
-msgstr ""
+msgstr "Λυπόμαστε η συνεδρίαση σας έληξε .<a href=\"%s\">Επιστροφή στην αρχική σελίδα &rarr;</a>"
 
 #: classes/class-wc-checkout.php:440
 #: woocommerce-functions.php:1697
 #@ woocommerce
 msgid "is a required field."
-msgstr ""
+msgstr "Αυτό το πεδίο είναι απαιτούμενο"
 
 #: classes/class-wc-checkout.php:482
 #@ woocommerce
 msgid "is not a valid number."
-msgstr ""
+msgstr "Ο αριθμός δεν είναι σωστός."
 
 #: classes/class-wc-checkout.php:489
 #@ woocommerce
 msgid "is not a valid email address."
-msgstr ""
+msgstr "Το email που βάλατε δεν είναι σωστό ."
 
 #: classes/class-wc-checkout.php:545
 #@ woocommerce
 msgid "Please enter an account username."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε το όνομα χρήστη του λογαριασμού σας ."
 
 #: classes/class-wc-checkout.php:562
 #@ woocommerce
@@ -2989,17 +2989,17 @@ msgstr "Οι κωδικοί δεν ταιριάζουν ."
 #: classes/class-wc-checkout.php:549
 #@ woocommerce
 msgid "Invalid email/username."
-msgstr ""
+msgstr "Λάθος email/όνομα χρήστη."
 
 #: classes/class-wc-checkout.php:552
 #@ woocommerce
 msgid "An account is already registered with that username. Please choose another."
-msgstr ""
+msgstr "Υπάρχει λογαριασμός με αυτό το όνομα χρήστη . Παρακαλώ επιλέξτε άλλο ."
 
 #: classes/class-wc-checkout.php:569
 #@ woocommerce
 msgid "An account is already registered with your email address. Please login."
-msgstr ""
+msgstr "Υπάρχει λογαριασμός με αυτό το email . Παρακαλώ συνδεθείτε ."
 
 #: classes/class-wc-checkout.php:575
 #@ woocommerce
